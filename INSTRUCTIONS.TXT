@@ -1,0 +1,4 @@
+#I am unaware of how to use the make file and hence directly using the commands on doit.sh
+#User has to give the input of the number of thread on the console 
+#As of the submission, I commented the commands for Modify and Write. If you are measuring for 
+#RMW measurements, you need to uncomment those two commands. 
